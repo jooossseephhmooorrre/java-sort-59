@@ -1,2 +1,4 @@
-# java-sort-59
+# Java Sort 59
+
 Sorting lists algorithm in Java.
+
